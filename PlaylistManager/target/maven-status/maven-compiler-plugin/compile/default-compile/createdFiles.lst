@@ -1,0 +1,4 @@
+com\mycompany\playlistmanager\DoubleList.class
+com\mycompany\playlistmanager\DoubleList$Node.class
+com\mycompany\playlistmanager\PlaylistManager.class
+com\mycompany\playlistmanager\Song.class
